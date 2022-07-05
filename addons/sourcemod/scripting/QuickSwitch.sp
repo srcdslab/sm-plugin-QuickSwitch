@@ -6,8 +6,8 @@
 #include <zombiereloaded>
 
 ConVar g_Cvar_QuickSwitch_Knife;
-float g_flNextAttack[MAXPLAYERS + 1] = {0.0, ...};
-bool g_bSetNextAttack[MAXPLAYERS + 1] = false;
+float g_flNextAttack[MAXPLAYERS + 1] = { 0.0, ... };
+bool g_bSetNextAttack[MAXPLAYERS + 1] = { false, ... };
 
 public Plugin myinfo =
 {
