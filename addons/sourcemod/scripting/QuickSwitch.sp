@@ -14,7 +14,7 @@ public Plugin myinfo =
 	name 			= "Knife QuickSwitch",
 	author 			= "BotoX",
 	description 	= "Switching to knife without delay.",
-	version 		= "1.0",
+	version 		= "1.0.1",
 	url 			= ""
 };
 
